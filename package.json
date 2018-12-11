@@ -1,5 +1,5 @@
 {
-  "name": "lunar-reminder",
+  "name": "lunar-event-manager",
   "version": "0.1.0",
   "description": "Clone source of git+https://github.com/appcypher/eventsmanager. A simple full-featured website for managing events centers and scheduling events. https://events-manager-io.herokuapp.com/",
   "main": "server/bin/server.js",
@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1242035/lunar-reminder"
+    "url": "git+https://github.com/1242035/lunar-event-manager"
   },
   "keywords": [],
   "author": "Steve Akinyemi",
   "license": "Apache v2.0",
   "bugs": {
-    "url": "git+https://github.com/1242035/lunar-reminder"
+    "url": "git+https://github.com/1242035/lunar-event-manager"
   },
   "homepage": "",
   "dependencies": {
