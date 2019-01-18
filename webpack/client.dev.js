@@ -2,6 +2,7 @@ const path = require('path');
 const webpack = require('webpack');
 
 module.exports = {
+  mode:'development',
   context: path.join(__dirname, '../client'),
   devtool: 'source-map',
   entry: [
